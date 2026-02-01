@@ -1,2 +1,0 @@
-# smart_waste_management
-smart_waste_management
